@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Oxanium:400,700&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box;
+  font-size: 18px;
+}
+
+body {
+  /* background: rgb(50, 50, 50);
+  background: linear-gradient(140deg, rgba(50, 50, 50, 1) 0%, rgba(25, 25, 25, 1) 94%); */
+  background-color: #f0f0ff;
+  color: #ddd;
+  font-family: 'Oxanium', cursive;
+  letter-spacing: 2px;
+}
+
+input, button, textarea {
+  font-size: 18px;
+}

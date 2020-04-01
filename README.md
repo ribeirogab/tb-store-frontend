@@ -1,1 +1,1 @@
-# ToBruxo Store (front-end)
+# ToBruxo Store (FRONT-END)
